@@ -24,13 +24,10 @@ This is a simple Python script that demonstrates how to encrypt and decrypt mess
 
 You can install the required library using pip!
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/project2pic1.jpg)  
+Fig 1. Sucessful run!
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/project2pic2.jpg)  
+Fig 2. Incorrect encryption key length. Code terminates.
 
 [Back to Portfolio](./)
