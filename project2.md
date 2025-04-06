@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Project 2 Title
+DES Encrypt / Decrypt
 ===============
 
 -   **Class: CSCI 452** 
 -   **Grade: A** 
 -   **Language(s): Python** 
 -   **Source Code Repository:** [Click Here](https://github.com/MisterBobsAngryHead/CSCI452)  
-    (Please [email me](mailto:richardprice.cyber@gmail.com) to request access.)
+    (Please email me @ richardprice.cyber@gmail.com to request access.)
 
 ## Project description
 
