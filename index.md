@@ -7,12 +7,12 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:richardprice.cyber@gmail.com) with the subject line, GitHub Access.
 
 ---
-### [Windows Compliance Script | CSCI 301](project1)
+### [Windows Compliance Script | CSCI 301 ](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [DES Encypt/Decrypt | CSCI 452](project1)
+### [DES Encypt/Decrypt | CSCI 452](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -23,7 +23,7 @@ Ethics Papers
 
 ### [Ethical Implications of AI in Healthcare](/pdf/Ethical Implications of AI in Healthcare.pdf)
 
--   **Class: Survey of Scripting Languages**  
+-   **Class: CSCI 301**  
 -   **Grade: A**
 
 ---
