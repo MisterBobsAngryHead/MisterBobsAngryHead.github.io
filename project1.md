@@ -6,7 +6,7 @@ Windows OS CIS Compliance
 -   **Class: 301** 
 -   **Grade: A** 
 -   **Language(s): Powershell** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/MisterBobsAngryHead/CSCI-301-code-repository/blob/master/Final)  
+-   **Source Code Repository:** [Click Here](https://github.com/MisterBobsAngryHead/CSCI-301-code-repository/blob/master/Final)  
     (Please [email me](mailto:richardprice.cyber@gmail.com) to request access.)
 
 ## Project description
