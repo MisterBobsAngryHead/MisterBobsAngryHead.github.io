@@ -44,10 +44,10 @@ It provides color-coded feedback on whether each policy meets CIS recommendation
 2. Save the script to your system as `Final.ps1`.
 3. Run the script
 
-![screenshot](images/project1pic1.png)  
-Fig 1. Successful test!
+![screenshot](images/project1pic1.jpg)  
+Fig 1. My initial settings. Very low security.
 
-![screenshot](images/project1pic2.png)  
-Fig 2. Noncompliant system.
+![screenshot](images/project1pic2.jpg)  
+Fig 2. Changed password complexity, length, and age requirements.
 
 [Back to Portfolio](./)
