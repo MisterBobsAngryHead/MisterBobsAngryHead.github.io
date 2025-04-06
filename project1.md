@@ -1,34 +1,50 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Windows OS CIS Compliance
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class: 301** 
+-   **Grade: A** 
+-   **Language(s): Powershell** 
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/MisterBobsAngryHead/CSCI-301-code-repository/blob/master/Final)  
+    (Please [email me](mailto:richardprice.cyber@gmail.com) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# 🔐 Windows CIS Password Policy Compliance Checker
 
-## How to compile and run the program
+This PowerShell script audits local Windows password and account lockout policies against the [CIS (Center for Internet Security)](https://www.cisecurity.org/) Windows security benchmarks.
 
-How to compile (if applicable) and run the project.
+---
 
-```bash
-cd ./project
-python setup.py
+## 📋 What It Does
+
+The script checks the following security settings:
+
+- ✅ **Minimum Password Length** (CIS 1.1.4)
+- ✅ **Maximum Password Age** (CIS 1.1.2)
+- ✅ **Minimum Password Age** (CIS 1.1.3)
+- ✅ **Password Complexity Requirement** (CIS 1.1.5)
+- ✅ **Account Lockout Duration** (CIS 1.2.1)
+
+It provides color-coded feedback on whether each policy meets CIS recommendations.
+
+---
+
+## ⚙️ Requirements
+
+- PowerShell (Windows PowerShell or PowerShell Core)
+- Administrator privileges (required to run `secedit`)
+
+---
+
+## 🚀 How to Use
+
+1. Open PowerShell **as Administrator**.
+2. Save the script to your system as `Check-CIS-PasswordPolicies.ps1`.
+3. Run the script
+
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
-
-## UI Design
-
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
@@ -42,7 +58,5 @@ Fig 3. Feedback when an error occurs.
 ## 3. Additional Considerations
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
