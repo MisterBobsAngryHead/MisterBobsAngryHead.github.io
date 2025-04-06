@@ -7,7 +7,7 @@ Windows OS CIS Compliance
 -   **Grade: A** 
 -   **Language(s): Powershell** 
 -   **Source Code Repository:** [Click Here](https://github.com/MisterBobsAngryHead/CSCI-301-code-repository/blob/master/Final)  
-    (Please [email me](mailto:richardprice.cyber@gmail.com) to request access.)
+    (Please email me @ richardprice.cyber@gmail.com to request access.)
 
 ## Project description
 
