@@ -31,36 +31,10 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ethical Implications of AI in Healthcare](/pdf/Ethical Implications of AI in Healthcare.pdf)
 
--   **Class:**  
--   **Grade:**
-
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
-
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
-
----
-
-Presentations
--------------
-
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
-
-- **Class:** 
-- **Grade:**
-
-
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
-
-- **Class:** 
-- **Grade:**
+-   **Class: Survey of Scripting Languages**  
+-   **Grade: A**
 
 ---
 
