@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Windows Compliance Script | CSCI 301 ](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/CISpic.png)
 
 ---
 ### [DES Encypt/Decrypt | CSCI 452](project2)
