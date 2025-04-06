@@ -3,15 +3,14 @@
 title: Rich Price # your name here
 logo: "/images/workpic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br /> elements if you don't need line breaks)
-  CSCI 496: Senior Portfolio<br />
+  CSCI 496: Senior Portfolio
+  <br /><br />
   In partial fulfillment of the requirements for the degree of
   Bachelor of Technology in Cybersecurity (class of 2025)
   <br /><br />
-  <a href="https://example.com/resume">View My Resume</a>
-  <br /><br />
   <a href="https://www.linkedin.com/in/richard-price-359930237/">View My LinkedIn Profile</a>
 repository: "csci-csu/csci-portfolio"
-github_username:  username # update with your username
+github_username:  MisterBobsAngryHead # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 # Build setting
