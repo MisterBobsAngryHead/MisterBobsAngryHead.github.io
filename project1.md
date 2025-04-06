@@ -41,16 +41,13 @@ It provides color-coded feedback on whether each policy meets CIS recommendation
 ## 🚀 How to Use
 
 1. Open PowerShell **as Administrator**.
-2. Save the script to your system as `Check-CIS-PasswordPolicies.ps1`.
+2. Save the script to your system as `Final.ps1`.
 3. Run the script
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/project1pic1.png)  
+Fig 1. Successful test!
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/project1pic2.png)  
+Fig 2. Noncompliant system.
 
 [Back to Portfolio](./)
