@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [DES Encypt/Decrypt | CSCI 452](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/DESpic.png)
 
 ---
 
