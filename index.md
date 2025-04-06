@@ -12,7 +12,7 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Battleship | CSCI 315](project1)
+### [DES Encypt/Decrypt | CSCI 452](project1)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
