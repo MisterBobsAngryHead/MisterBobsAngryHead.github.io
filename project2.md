@@ -6,7 +6,7 @@ Project 2 Title
 -   **Class: CSCI 452** 
 -   **Grade: A** 
 -   **Language(s): Python** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/MisterBobsAngryHead/CSCI452)  
+-   **Source Code Repository:** [Click Here](https://github.com/MisterBobsAngryHead/CSCI452)  
     (Please [email me](mailto:richardprice.cyber@gmail.com) to request access.)
 
 ## Project description
